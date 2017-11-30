@@ -7,6 +7,6 @@ Hello
 ```
 ```markdown
 Photo 1 
-
+{image}
 
 ```
