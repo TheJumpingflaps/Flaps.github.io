@@ -1,12 +1,12 @@
 # Welcome to Flaps GitHub Pages
-
-
 ```markdown
-Hello
+Hello, I am Flaps and this is my 360 portfolio. 
+```
+```markdown
+Photo
 
 ```
 ```markdown
-Photo 1 
-```storm
+Photo 
 
 ```
