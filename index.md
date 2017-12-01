@@ -18,5 +18,5 @@ Photo
 
 ```
 ```markdown
-This is what I took.  It is all of the pavilian at my school looks like. :smile:
+This is what I took.  It is all of the pavilian at my school looks like.:smile:
 ```
