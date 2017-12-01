@@ -2,14 +2,17 @@
 ```markdown
 Hello, I am Flaps and this is my 360 portfolio. 
 ```
+**1st 360 Photo**
 ```markdown
 Photo
 
 ```
+**2nd 360 Photo**
 ```markdown
 Photo 
 
 ```
+**3rd 360 Photo**
 ```markdown
 Photo
 
