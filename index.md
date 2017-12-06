@@ -7,9 +7,6 @@ Hello, I am Flaps and this is my 360 portfolio.
 **-2nd 360 Photo**
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/bndrp" ></script>
 **-3rd 360 Photo**
-```markdown
-Photo
-
-```
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/awxrr" ></script>
 This is what I took.  It is all of the pavilian at my school looks like.  :smile:  
 :trollface:
